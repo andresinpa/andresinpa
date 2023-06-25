@@ -1,6 +1,8 @@
-# 💫 About Me:
+# 💫 Acerca de mi:
 👨‍💻 Ingeniero de Sistemas apasionado<br>🤖Explorador del desarrollo Full Stack <br>📚Construyendo el futuro con código creativo y una mentalidad de aprendizaje constante. <br>🧐Conocimientos en FrontEnd y Backend<br>💻📱Con habilidades en desarrollo móvil, Java, HTML, CSS y JS. <br>📊Apasionado por las bases de datos NoSQL y SQL<br>🎨Entusiasta del framework Flutter. <br>🥇Mi objetivo es crear soluciones innovadoras y robustas a través de la programación. <br>Siempre en busca de nuevos desafíos, aprendiendo nuevas tecnologías y colaborando en proyectos emocionantes. <br>¡Uniendo la lógica y la creatividad para hacer del mundo digital un lugar mejor!<br>🌐👉https://linktr.ee/jesusinfante 
 
+# 💫 About Me:
+👨‍💻Passionate Systems Engineer<br>🤖Full Stack Development Explorer<br>📚Building the future with creative code and a constant learning mindset. <br>🧐Knowledge in FrontEnd and Backend<br>💻📱With skills in mobile development, Java, HTML, CSS and JS. <br>📊Passionate about NoSQL and SQL databases<br>🎨Enthusiast of the Flutter framework. <br>🥇My goal is to create innovative and robust solutions through programming. <br>Always looking for new challenges, learning new technologies and collaborating on exciting projects. <br>Uniting logic and creativity to make the digital world a better place!<br>🌐👉https://linktr.ee/jesusinfante
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/jesusandres.infantepaez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jesus-infante/) 
